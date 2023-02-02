@@ -43,7 +43,7 @@ $(document).ready(function () {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Faraz";
+    document.title = "Portfolio | Rahija";
   } else {
     document.title = "Come Back To Portfolio";
   }
